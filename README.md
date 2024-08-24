@@ -13,8 +13,13 @@ If you are confused, that's ok! I was too until I actually wrote some code. So g
 
 ## PICTURE TIME
 
+### Default State
 ![Alt text](assets/img/01_default_state.png?raw=true "Default State")
+
+### Updated State
 ![Alt text](assets/img/02_updated_state.png?raw=true "Updated State")
+
+### Updated State for Masochists...
 ![Alt text](assets/img/03_updated_state_for_masochists.png?raw=true "Updated State for Masochists...")
 
 ## Getting Started
