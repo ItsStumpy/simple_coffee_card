@@ -11,6 +11,12 @@ Confused about where the `src` stuff is? Don't you worry, it's all in the `lib` 
 
 If you are confused, that's ok! I was too until I actually wrote some code. So get to reading scoundrel! 😎📖
 
+## PICTURE TIME
+
+![Alt text](assets/img/01_default_state.png?raw=true "Default State")
+![Alt text](assets/img/02_updated_state.png?raw=true "Updated State")
+![Alt text](assets/img/03_updated_state_for_masochists.png?raw=true "Updated State for Masochists...")
+
 ## Getting Started
 
 If you want to get started with your own absolutely amazing card building skills, follow the links below and read those docs!
